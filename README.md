@@ -1,6 +1,6 @@
-# Advent_of_Code-2021
+# _Advent_of_Code
 
-My progress on playing Advent of Code 2021 in Rust.
+My progress on playing Advent of Code since 2021 in Rust.
 
 ## How to play
 
